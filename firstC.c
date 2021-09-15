@@ -2,5 +2,5 @@
 
 int main() {
   
-  return o;
+  return 0;
 }
